@@ -1,5 +1,5 @@
 # About Me:
-I'm Currently working on Transformer models and Attention Mechanism <br>Interested in Deep and Reinforcement Learning<br>I like to build solutions that matters through niche approaches
+I'm Currently working on Post Transformer models, Attention Mechanism and Multi Modal Models <br>Interested in Deep and Reinforcement Learning<br>I like to build solutions that matters through niche approaches
 
 
 ## Socials:
