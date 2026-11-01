@@ -1,7 +1,7 @@
 # About Me:
 I'm Currently working on Post Transformer models, Attention Mechanism and Multi Modal Models <br>Interested in Deep and Reinforcement Learning<br>I like to build solutions that matters through niche approaches
 
-<img src="koi/koi.gif" width="256" alt="My koi" />
+<img src="koi/koi.gif" width="500" alt="My koi" />
 
 
 ## Socials:
